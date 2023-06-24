@@ -1,2 +1,2 @@
-def foo(word):
-    return word.upper()
+def foo(words):
+    return words.upper()
